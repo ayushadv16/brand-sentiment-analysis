@@ -11,4 +11,5 @@ nltk
 vaderSentiment
 requests
 wordcloud
+altair.vegalite.v4
 
